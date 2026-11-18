@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+Karthikeya Thangirala
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+1. I understood that logic is important than language.
+2. I also understood how to write pseudocodes.
+3. And finally came to know about programming language is just English.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected Python because I wanted to enter into the field of AI.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to become an AIML Engineer.
 
 ## What I Understood Today
 
-Complete these sentences:
+Programming means: Set of instructions to solve a problem.
 
-Programming means:
+Python is: Just a programming language.
 
-Python is:
-
-In this track, I will learn:
+In this track, I will learn: How to solve the problems using Python Full Stack + Gen AI.

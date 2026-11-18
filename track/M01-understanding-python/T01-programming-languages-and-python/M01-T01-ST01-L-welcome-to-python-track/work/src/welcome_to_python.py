@@ -1,2 +1,6 @@
-#write you code here
-print("Hello, World!!")
+print("Welcome to the Python Track.")
+print("My name is Karthikeya.")
+print("My goal is to become an AIML Engineer.")
+print("I selected Python because I want to enter the field of AI.")
+print("I already know how to build programming logic.")
+print("Now I am learning how to express that logic using Python.")
